@@ -31,7 +31,7 @@ In this tutorial, you will learn-
 
     
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo1.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo2.png)
 
 
 
@@ -52,7 +52,7 @@ In this tutorial, you will learn-
     
 
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo2.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo3.png)
 
 
 
@@ -61,11 +61,8 @@ In this tutorial, you will learn-
 
     
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo3.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo5.png)
 
 
 
@@ -74,7 +71,7 @@ In this tutorial, you will learn-
 
     
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo4.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo6.png)
 
 
 
@@ -84,7 +81,7 @@ In this tutorial, you will learn-
     
 
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo5.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo7.png)
 
 
 
@@ -109,7 +106,7 @@ In this tutorial, you will learn-
     
 
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo6.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo9.png)
 
 
 
@@ -118,7 +115,7 @@ In this tutorial, you will learn-
 
     
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo7.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo10.png)
 
 
     **Step 4**: now open package.json file and replace the `scripts`
@@ -129,7 +126,7 @@ In this tutorial, you will learn-
 
     
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo8.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo11.png)
 
 
 
@@ -138,7 +135,7 @@ In this tutorial, you will learn-
 
     
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo9.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo13.png)
 
 
 
@@ -150,7 +147,7 @@ So far  we have been using default server settings now we are going to use noapi
 
 
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo10.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo13a.png)
 
 
 Here configured basic settings of noapi
@@ -159,7 +156,7 @@ Here configured basic settings of noapi
 
 
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo11.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo14.png)
 
 
 We successfully configured noapi
@@ -174,7 +171,7 @@ Here we are going to see how to could handle client request
 
 
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo12.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo16.png)
 
 
 **Step 2**:open the biz folder and create a called about.js
@@ -182,7 +179,7 @@ Here we are going to see how to could handle client request
 
 
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo13.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo15.png)
 
 
 **Step 3: **Start the server again **node app.js**
@@ -190,7 +187,7 @@ Here we are going to see how to could handle client request
 
 
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo14png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo6.png)
 
 
 **Step 3: **open browser and hit http://localhost:3000/about URL
@@ -198,7 +195,7 @@ Here we are going to see how to could handle client request
 
 
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo15.png)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo18.png)
 
 
 
