@@ -31,10 +31,9 @@ In this tutorial, you will learn-
 
     
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo1.png)
 
 
-![alt_text](images/NOAPI-Tutorial0.png "image_tooltip")
 
 
 
@@ -52,10 +51,8 @@ In this tutorial, you will learn-
 
     
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/NOAPI-Tutorial1.png "image_tooltip")
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo2.png)
 
 
 
@@ -67,7 +64,8 @@ In this tutorial, you will learn-
 <p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/NOAPI-Tutorial2.png "image_tooltip")
+
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo3.png)
 
 
 
@@ -76,10 +74,7 @@ In this tutorial, you will learn-
 
     
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/NOAPI-Tutorial3.png "image_tooltip")
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo4.png)
 
 
 
@@ -88,10 +83,8 @@ In this tutorial, you will learn-
 
     
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial4.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/NOAPI-Tutorial4.png "image_tooltip")
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo5.png)
 
 
 
@@ -115,10 +108,8 @@ In this tutorial, you will learn-
 
     
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial5.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/NOAPI-Tutorial5.png "image_tooltip")
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo6.png)
 
 
 
@@ -127,11 +118,7 @@ In this tutorial, you will learn-
 
     
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial6.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/NOAPI-Tutorial6.png "image_tooltip")
-
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo7.png)
 
 
     **Step 4**: now open package.json file and replace the `scripts`
@@ -142,10 +129,7 @@ In this tutorial, you will learn-
 
     
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial7.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/NOAPI-Tutorial7.png "image_tooltip")
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo8.png)
 
 
 
@@ -154,10 +138,7 @@ In this tutorial, you will learn-
 
     
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial8.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/NOAPI-Tutorial8.png "image_tooltip")
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo9.png)
 
 
 
@@ -169,10 +150,7 @@ So far  we have been using default server settings now we are going to use noapi
 
 
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial9.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/NOAPI-Tutorial9.png "image_tooltip")
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo10.png)
 
 
 Here configured basic settings of noapi
@@ -181,10 +159,7 @@ Here configured basic settings of noapi
 
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial10.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/NOAPI-Tutorial10.png "image_tooltip")
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo11.png)
 
 
 We successfully configured noapi
@@ -198,40 +173,32 @@ Here we are going to see how to could handle client request
 
 
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial11.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/NOAPI-Tutorial11.png "image_tooltip")
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo12.png)
 
 
 **Step 2**:open the biz folder and create a called about.js
 
 
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial12.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/NOAPI-Tutorial12.png "image_tooltip")
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo13.png)
 
 
 **Step 3: **Start the server again **node app.js**
 
 
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial13.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/NOAPI-Tutorial13.png "image_tooltip")
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo14png)
 
 
 **Step 3: **open browser and hit http://localhost:3000/about URL
 
 
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/NOAPI-Tutorial14.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/NOAPI-Tutorial14.png "image_tooltip")
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo15.png)
 
 
 
