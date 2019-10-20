@@ -50,8 +50,8 @@ Let's use our newly installed noapi framework and create a simple "Hello World" 
 ![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo6.png?raw=true)
 
 **Step 4:** Open your favorite browser  and enter this URL and enter [http://localhost:3000/hello]
-</br>
-(http://localhost:3000/hello).
+
+(http://localhost:3000/hello).</br>
 ![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo7.png?raw=true)
 
 **Congratulation** We successfully completed our first step stage.
