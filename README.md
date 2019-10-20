@@ -39,7 +39,8 @@ The above command requests the Node package manager to download the required noa
 ### Create
 Let's use our newly installed noapi framework and create a simple "Hello World" application.
 
-**Step 1:**  Create app.js file where we will define our server  and open it on your favorite text editor in this tutorial I’m using Vscode.
+**Step 1:**  Create an app.js file where we will define our server, open it on your favorite text editor in this tutorial I’m using Vscode.
+</br>
 ![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo3aa.png?raw=true)
 
 **Step 2:** Create an API folder and inside this folder create a file called define.js in this file we will define our API routes.
