@@ -131,7 +131,7 @@ Here we are going to see how to could handle client request
  **Step 1:** to handle the request we need to define a route, open your define.js
 
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo16.png?raw=true)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo16a.png?raw=true)
 
 **Step 2**:open the biz folder and create a called about.js
 
