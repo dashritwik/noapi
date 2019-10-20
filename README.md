@@ -23,7 +23,7 @@ Noapi gets installed via the node package manager, this can be done by executing
 npm init
 ```
 
-and answer the questions in the command line questionnaire:
+and answer these  questions in the command line questionnaire:
 ![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo2.png?raw=true)
 
 Then install noapi:
