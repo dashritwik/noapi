@@ -39,10 +39,10 @@ In this tutorial, you will learn-
     
 
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo3.png?raw=true)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo3a.png?raw=true)
 
 **Step 2**: Create an API folder and inside this folder create a file called define.js in this file we will define our API routes
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo5.png?raw=true)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo5a.png?raw=true)
 
 **Step 3**:  now we need to start our server for that run this following command on your command line** node . **(server will automatically run on default port 3000)
 
