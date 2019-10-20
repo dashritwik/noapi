@@ -73,7 +73,7 @@ In this tutorial, you will learn-
 
 **Step 2**: Create a folder called biz in this folder we will write our business logic and inside this folder create a file called hello.js
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo9.png?raw=true)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo9a.png?raw=true)
 
 
 
@@ -82,7 +82,7 @@ In this tutorial, you will learn-
 
     
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo10.png?raw=true)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo10a.png?raw=true)
 
 
    **Step 4**: now open package.json file and replace the `scripts` test 
@@ -90,7 +90,7 @@ In this tutorial, you will learn-
 
     
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo11.png?raw=true)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo11a.png?raw=true)
 
  **Step 5**: final step to test our API open your terminal from your project root folder and enter **npm test **(stop if there is any server running on port 3000)
 
