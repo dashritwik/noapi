@@ -138,7 +138,7 @@ Here we are going to see how to could handle client request
 
 
 
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo15.png?raw=true)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo15a.png?raw=true)
 
 **Step 3**: Start the server again **node app.js**
 
