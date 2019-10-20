@@ -104,7 +104,7 @@ Here we are going to see how to could handle client request
 ![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo6.png?raw=true)
 
 **Step 4:** Open browser and hit http://localhost:3000/about URL:
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo18.png?raw=true)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo17.png?raw=true)
 
 
 ## Conclusion
