@@ -154,8 +154,8 @@ Here we are going to see how to could handle client request
 
 What we have learned from this  tutorial
 
-1: how to install noapi and setup
-2: how easily we could define our API 
-3: how we could test our API without writing tonnes of line code
-4: how we could change the default server setting 
-5: how we could write our own custom APIs.
+1: how to install noapi and setup</br>
+2: how easily we could define our API </br>
+3: how we could test our API without writing tonnes of line code</br>
+4: how we could change the default server setting </br>
+5: how we could write our own custom APIs.</br>
