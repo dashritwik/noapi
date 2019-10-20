@@ -44,7 +44,7 @@ Let's use our newly installed noapi framework and create a simple "Hello World" 
 ![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo3aa.png?raw=true)
 
 **Step 2:** Create an API folder and inside this folder create a file called define.js in this file we will define our API routes.</br>
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo5a.png?raw=true)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo5.png?raw=true)
 
 **Step 3:**  Now we need to start our server for that run this following command on your command line `node .` (server will automatically run on default port 3000).</br>
 ![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo6.png?raw=true)
@@ -64,7 +64,7 @@ We need following these dependencies: `chai, mocha, supertest`
 **Step 1:** Install dependencies, run this command `npm install chai mocha supertest -D` (D flag means these packages are dev-dependencies).</br>
 
 **Step 2:** Create a folder called biz in this folder we will write our business logic and inside this folder create a file called hello.js.</br>
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo9a.png?raw=true)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo9.png?raw=true)
 
 **Step 3:** We need another folder to test our API which is called test and inside this folder create file called index.js.</br>
 ![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo10a.png?raw=true)
@@ -82,7 +82,7 @@ We need following these dependencies: `chai, mocha, supertest`
 So far  we have been using default server settings now we are going to use noapi custom server settings.
 
 **Step 1:**  Open app.js file:</br>
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo13a.png?raw=true)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo13aa.png?raw=true)
 
 Here configured basic settings of noapi.</br>
 
@@ -96,10 +96,10 @@ We successfully configured noapi.
 Here we are going to see how to could handle client request
 
 **Step 1:** To handle the request we need to define a route, open your define.js:</br>
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo16a.png?raw=true)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo16.png?raw=true)
 
 **Step 2:** Open the biz folder and create a called about.js:</br>
-![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo15a.png?raw=true)
+![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo15.png?raw=true)
 
 **Step 3:** Start the server again `node app.js`:</br>
 ![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo6.png?raw=true)
