@@ -29,6 +29,7 @@ In this tutorial, you will learn-
 ![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo2.png?raw=true)
 
 **npm install noapi**
+</br>
     The above command requests the Node package manager to download the required noapi modules and install them accordingly.
     Let's use our newly installed noapi framework and create a simple "Hello World" application
 
