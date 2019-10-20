@@ -45,8 +45,15 @@ In this tutorial, you will learn-
 ![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo5.png?raw=true)
 
 **Step 3**:  now we need to start our server for that run this following command on your command line** node . **(server will automatically run on default port 3000)
+
+
 ![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo6.png?raw=true)
-    **Step 4:** Open your favorite browser  and enter this URL and enter [http://localhost:3000/hello](http://localhost:3000/hello)
+   </br>
+
+
+
+
+   **Step 4:** Open your favorite browser  and enter this URL and enter [http://localhost:3000/hello](http://localhost:3000/hello)
 
 ![](https://github.com/dashritwik/noapi/blob/master/doc/images/demo7.png?raw=true)
 
